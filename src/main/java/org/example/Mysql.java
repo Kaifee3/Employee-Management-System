@@ -13,7 +13,7 @@ public class Mysql {
 
         String url = "jdbc:mysql://localhost:3306/employee_db";
         String user = "root";
-        String password = "123";
+        String password = "your password";
 
         Connection con = null;
         Statement stmt = null;
